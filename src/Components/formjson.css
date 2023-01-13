@@ -1,0 +1,20 @@
+
+.bgimage{
+    height: 100vh;
+    width: 100%;
+    background-image: url("loginbg.webp");
+    background-size: auto 100%;
+}
+.bxshow{
+    box-shadow: 0px 0px 30px #0a0101;
+}
+.button1{
+    height: 7vh;
+    width: 30%;
+    border-radius: 10px;
+}
+.bgclr{
+    background-color: rgb(44,32,59);
+    color: white;
+   
+}
